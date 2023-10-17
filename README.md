@@ -1,4 +1,3 @@
-# Js_Project_01
 # JavaScript Color Changer Project
 
 This is a simple JavaScript project that allows you to change the background color of a webpage with the click of a button.
